@@ -1,0 +1,7 @@
+#ifndef PACKET_INFO_H
+#define PACKET_INFO_H
+
+#define BUFFER_SIZE 1024
+#define SOCKET_PORT 5123
+
+#endif // PACKET_INFO_H
